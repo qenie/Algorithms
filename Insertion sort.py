@@ -1,6 +1,6 @@
 # Insertion sort
 
-data = [2, 5, 7, 1]
+data = [2, 5, 7, 1, 3, 8, 4, 100, 6, 140]
 
 
 def insertion_sort(array):
