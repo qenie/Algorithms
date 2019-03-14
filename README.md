@@ -1,1 +1,1 @@
-Just some algorithms in python
+Just some basic algorithms in python
